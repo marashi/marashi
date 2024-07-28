@@ -1,4 +1,17 @@
-## Hi there 👋
+# Hey! I'm Matt 👋
+
+Welcome to my GitHub profile!
+
+- 💻 I'm a software engineer who specializes in front end development, with over ten years of experience in startups and big companies.
+- 🚀 I've got a solid technical background and ability for creating impactful solutions, leading teams, and making projects succeed.
+- 🧩 I love solving complex technical challenges and finding efficient solutions.
+- 🌍 I'm based in Toronto, ON, Canada 🇨🇦.
+
+Thanks for stopping by! Let's connect! Feel free to reach out anytime...
+
+- [LinkedIn](https://www.linkedin.com/in/mattmarashi)
+- [Website](https://marashi.me)
+
 
 <!--
 **marashi/marashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
